@@ -21,7 +21,7 @@ structured and organized manner.
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EstherMoagi/MVC-Assessment.git# MVC Assigment (Event Booker)
+   git clone https://github.com/EstherMoagi/MVC-Assessment.git
    
 # (Alternative ) to open it
 Download the zip file ( click view raw be able to download) and unzip it , than open  the Moagi.E_Assigment1.sln file using visual studio 2022 , than run it.
